@@ -38,7 +38,7 @@ Work in progress.
 ## Book Design Concept
 
 For more information about the design concept of the book, please check the
-[Design Concept](design_concept) file.
+[Design Concept](design_concept.md) file.
 
 ---
 
