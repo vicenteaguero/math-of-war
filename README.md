@@ -1,5 +1,12 @@
 # Math of War
 
+> [!NOTE]
+> This repo is used by Vicente Agüero to write the book "Math of War".
+> [LinkedIn](https://www.linkedin.com/in/vicente-aguero/)
+
+> [!WARNING]
+> This book is a work in progress.
+
 ![Design Concept](assets/img/design-concept.png)
 
 This repo will be used to write the first draft of the book "Math of War".
