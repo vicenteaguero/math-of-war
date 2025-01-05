@@ -6,6 +6,8 @@
 
 > [!WARNING]
 > This book is a work in progress.
+> The first draft is intended to be finished by the end of 2025.
+> The book will be published during 2026.
 
 ![Design Concept](assets/img/design-concept.png)
 
